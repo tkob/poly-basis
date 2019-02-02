@@ -1,0 +1,5 @@
+provides: poly-basis v0.1.0
+remote: git git://github.com/tkob/poly-basis.git
+description: A few structures from the Poly/ML Basis Library 
+bug-url: https://github.com/tkob/poly-basis/issues
+license: LGPL-2.1
