@@ -1,0 +1,5 @@
+Library
+    structure HashArray
+is
+    $/basis.cm
+    HashArray.sml
